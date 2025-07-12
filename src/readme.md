@@ -12,9 +12,9 @@ doing sorting with built-in python lists.
 ### we start using .csv files today! 
 and we will use these in the future for more advanced option's probably.
 ### but for now
-we will use this for a simple age avrage finding program. this is really simple it adds all the ages of each line of the .csv file then divides them by the amount of lines.
+we will use this for a simple age average finding program. this is really simple it adds all the ages of each line of the .csv file then divides them by the amount of lines.
 (basically) but yeah we will use csv later on for more advanced sorting programs.
-(who knows this might help you learn how to do a lot in python me too!)
+(who knows this might help you learn how to do a lot in python!)
 ## day 4:
 we will make a simple grading program today. and update our undertsanding of other ways to use CSV files with python!
 ## day 5:
